@@ -1,4 +1,4 @@
-# Olá, meu nome é Gabriel Rodrigues !
+# meu nome é Gabriel Rodrigues.
 
 ## Sou um **desenvolvedor** com experiência no **desenvolvimento backend**.
 ### 🇧🇷 Brasil
