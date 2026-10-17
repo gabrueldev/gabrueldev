@@ -1,13 +1,29 @@
 # meu nome é Gabriel Rodrigues.
 
-## Sou um **desenvolvedor** com experiência no **desenvolvimento backend**.
-### 🇧🇷 Brasil
+## Sou um **desenvolvedor full-stack** e eu desenvolvo **qualquer coisa**: da **landing page** ao **sistema complexo**, do **app** ao **script de Roblox**.
+### 🇧🇷 Taubaté / São Paulo - Brasil
 
-Eu desenvolvo diversas aplicações, desde **SaaS** e **sistemas de alta escala** até **APIs seguras** e **lógicas de negócios complexas**.
+Se roda em um navegador, em um servidor, no celular ou dentro de um jogo, eu construo. Trabalho de ponta a ponta: **design e frontend** com animações detalhadas, **backend e APIs** seguras, **infraestrutura na edge** com Cloudflare e **automações** que tiram trabalho repetitivo das costas de quem usa.
 
-Gosto de criar soluções que não apenas resolvem problemas, mas também escalam, duram e geram valor real. Procuro sempre me manter atualizado com as últimas tecnologias e melhores práticas para entregar o melhor resultado possível. Aplicando uma abordagem orientada a negócios, busco entender as necessidades do cliente e do usuário final para criar soluções que realmente façam a diferença.
+Gosto de criar soluções que não apenas resolvem problemas, mas também escalam, duram e geram valor real. Com uma abordagem orientada a negócios, busco entender as necessidades do cliente e do usuário final para entregar algo que realmente faça a diferença.
 
-Crio ferramentas, automações e integrações que otimizam processos e melhoram a eficiência. Além disso, sou apaixonado por compartilhar conhecimento e ajudar outros desenvolvedores a crescerem em suas carreiras. Meu foco é pegar aquele problema complexo, quebrá-lo em partes menores e criar uma solução elegante e eficiente no mercado.
+Meu foco é pegar aquele problema complexo, quebrá-lo em partes menores e criar uma solução elegante, do banco de dados até o último pixel.
+
+---
+
+## 🧩 O que eu desenvolvo
+
+- 🌐 **Landing pages e sites institucionais** feitos à mão, com animações de scroll, SVG e canvas, e carregamento rápido
+- 🛒 **Lojas e checkouts** customizados, integrados a plataformas de pagamento via API
+- 📱 **Web apps e PWAs** instaláveis, com notificações push e login por passkey (WebAuthn)
+- ⚡ **Serverless na edge** com Cloudflare Workers, KV, Durable Objects e tarefas agendadas (cron)
+- 🔌 **APIs REST** e **autenticação** (JWT, Django, Node.js)
+- 🤖 **Automações e bots**: integrações entre sistemas, chatbot de WhatsApp, agentes
+- 📊 **Dashboards e painéis** de vendas e gestão
+- 🎮 **Jogos e scripts**: Roblox (Luau), servidores de roleplay e jogos em Lua
+- 🏗️ **Sistemas complexos** com regras de negócio de verdade, do zero ao deploy
+
+💼 **Portfólio:** [gabrueldev.com](https://gabrueldev.com)
 
 ---
 
@@ -15,7 +31,7 @@ Crio ferramentas, automações e integrações que otimizam processos e melhoram
 
 <p align="left">
   <a href="https://github.com/gabrueldev">
-    <img src="https://img.shields.io/badge/GitHub-GABRIELRODRIGUES-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-GABRUELDEV-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/eugabruel_">
     <img src="https://img.shields.io/badge/Instagram-@EUGABRUEL_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -34,27 +50,41 @@ Crio ferramentas, automações e integrações que otimizam processos e melhoram
 
 ### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 ### Backend
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![lua](https://img.shields.io/badge/lua-00ADD8?style=for-the-badge&logo=lua)
-![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
-### DevOps & Tools
+### Games
 
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua)
+
+### Cloud, DevOps & Tools
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
@@ -67,11 +97,10 @@ Crio ferramentas, automações e integrações que otimizam processos e melhoram
 
 ---
 
-> _"if you have to add a feature, it's a sign
-> that you don't understand the problem." por Paul Graham
+> _"If you have to add a feature, it's a sign that you don't understand the problem."_ — Paul Graham
 
 ---
 
 ⭐ Se você gostou do meu perfil, me dê uma estrela e me siga para acompanhar meus projetos e conteúdos futuros!
 
-🤝 Sempre aberto a colaborações, parcerias e ideias legais!
+🤝 Tem um projeto em mente, seja ele simples ou maluco? **Me chama.** Sempre aberto a colaborações, parcerias e ideias legais!
