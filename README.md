@@ -14,7 +14,7 @@ Crio ferramentas, automações e integrações que otimizam processos e melhoram
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/gabruel12">
+  <a href="https://github.com/gabrueldev">
     <img src="https://img.shields.io/badge/GitHub-GABRIELRODRIGUES-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/eugabruel_">
@@ -61,8 +61,8 @@ Crio ferramentas, automações e integrações que otimizam processos e melhoram
 ## 📊 Status do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabruel12&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabruel12&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrueldev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrueldev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
