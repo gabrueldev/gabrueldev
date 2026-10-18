@@ -3,7 +3,7 @@
 ## Sou um **desenvolvedor full-stack** e eu desenvolvo **qualquer ideia sua**, seja ela uma **landing page** ou um **sistema complexo**.
 ### 🇧🇷 Taubaté / São Paulo - Brasil
 
-Com o tempo, fui desenvolvendo habilidades que complementam o desenvolvimento de software: aprendi marketing, vendas e design para criar páginas que convertem. Também aprendi a estruturar código e construir sistemas sólidos, que não geram problemas mais tarde. Lendo livros de grandes nomes da área, fui me aperfeiçoando em tudo isso, enquanto isso estava sempre testando e implementando mais a IA até dominar o uso de IA completo no desenvolvimento e acelerar meu trabalho em 100%.
+Com o tempo, fui desenvolvendo habilidades que complementam o desenvolvimento de software. Aprendi marketing, vendas e design para criar páginas que convertem. Também aprendi a estruturar código e construir sistemas sólidos, que não geram problemas mais tarde. Lendo livros de grandes nomes da área, fui me aperfeiçoando em tudo isso, enquanto isso estava sempre testando e implementando mais a IA até dominar o uso de IA completo no desenvolvimento e acelerar meu trabalho em 100%.
 
 Gosto de criar soluções que não apenas resolvem problemas, mas também escalam, duram e geram valor real. Com uma abordagem orientada a negócios, busco entender as necessidades do cliente e do usuário final para entregar algo que realmente faça a diferença.
 
