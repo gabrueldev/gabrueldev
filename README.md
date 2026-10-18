@@ -1,29 +1,17 @@
-# meu nome é Gabriel Rodrigues.
+# Eu desenvolvo qualquer coisa
 
-## Sou um **desenvolvedor full-stack** e eu desenvolvo **qualquer coisa**: da **landing page** ao **sistema complexo**, do **app** ao **script de Roblox**.
+## Sou um **desenvolvedor full-stack** e eu desenvolvo **qualquer ideia sua**, seja ela uma **landing page** ou um **sistema complexo**.
 ### 🇧🇷 Taubaté / São Paulo - Brasil
 
-Se roda em um navegador, em um servidor, no celular ou dentro de um jogo, eu construo. Trabalho de ponta a ponta: **design e frontend** com animações detalhadas, **backend e APIs** seguras, **infraestrutura na edge** com Cloudflare e **automações** que tiram trabalho repetitivo das costas de quem usa.
+Com o passar do tempo fui desenvolvendo habilidades complementares com a área de desenvolvimento de software, aprendi marketing, vendas, design dentre outras habilidades para criar páginas estáticas assim como aprendi a estruturar um código, construir uma base sólida de sistema que não gere problemas mais tarde e enquanto lia livros de pessoas renomadas na área fui me aperfeiçoando até o domínio total da IA.
 
 Gosto de criar soluções que não apenas resolvem problemas, mas também escalam, duram e geram valor real. Com uma abordagem orientada a negócios, busco entender as necessidades do cliente e do usuário final para entregar algo que realmente faça a diferença.
 
-Meu foco é pegar aquele problema complexo, quebrá-lo em partes menores e criar uma solução elegante, do banco de dados até o último pixel.
+Meu foco é pegar aquele problema complexo, quebrá-lo em partes menores e criar uma solução profissional e eficiente.
 
 ---
 
-## 🧩 O que eu desenvolvo
-
-- 🌐 **Landing pages e sites institucionais** feitos à mão, com animações de scroll, SVG e canvas, e carregamento rápido
-- 🛒 **Lojas e checkouts** customizados, integrados a plataformas de pagamento via API
-- 📱 **Web apps e PWAs** instaláveis, com notificações push e login por passkey (WebAuthn)
-- ⚡ **Serverless na edge** com Cloudflare Workers, KV, Durable Objects e tarefas agendadas (cron)
-- 🔌 **APIs REST** e **autenticação** (JWT, Django, Node.js)
-- 🤖 **Automações e bots**: integrações entre sistemas, chatbot de WhatsApp, agentes
-- 📊 **Dashboards e painéis** de vendas e gestão
-- 🎮 **Jogos e scripts**: Roblox (Luau), servidores de roleplay e jogos em Lua
-- 🏗️ **Sistemas complexos** com regras de negócio de verdade, do zero ao deploy
-
-💼 **Portfólio:** [gabrueldev.com](https://gabrueldev.com)
+### Quer ver o que eu desenvolvo? Veja meu portfólio [gabrueldev.com](https://gabrueldev.com)
 
 ---
 
@@ -33,8 +21,8 @@ Meu foco é pegar aquele problema complexo, quebrá-lo em partes menores e criar
   <a href="https://github.com/gabrueldev">
     <img src="https://img.shields.io/badge/GitHub-GABRUELDEV-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/eugabruel_">
-    <img src="https://img.shields.io/badge/Instagram-@EUGABRUEL_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/sougabruel_">
+    <img src="https://img.shields.io/badge/Instagram-@souGABRUEL_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@gabrueldev">
     <img src="https://img.shields.io/badge/TikTok-@GABRUELDEV-000000?style=for-the-badge&logo=tiktok" />
