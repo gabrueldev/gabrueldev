@@ -23,8 +23,6 @@ Assistente financeira no WhatsApp com IA. Você manda "vendi 3 bolos por 90" e e
 ### [MagazineAPI](https://github.com/gabrueldev/MagazineAPI)
 Reserva de salas que não deixa dois agendamentos se chocarem. API em Django REST com login por token, logs e 29 testes, mais uma tela web para usar tudo sem Postman.
 
-<img src="https://raw.githubusercontent.com/gabrueldev/MagazineAPI/main/docs/agenda.png" alt="Agenda do MagazineAPI com as salas em colunas e as reservas como blocos" width="720" />
-
 ### [AutomacaoAPI](https://github.com/gabrueldev/AutomacaoAPI)
 API em Django com verificação de conta por e-mail. O envio roda em segundo plano com Celery e Redis, e o projeto sobe inteiro com Docker Compose.
 
