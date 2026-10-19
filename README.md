@@ -15,6 +15,24 @@ Meu foco é pegar aquele problema complexo, quebrá-lo em partes menores e criar
 
 ---
 
+## 🚀 Projetos em destaque
+
+### [Sellpy](https://github.com/gabrueldev/Sellpy-Agent)
+Assistente financeira no WhatsApp com IA. Você manda "vendi 3 bolos por 90" e ela registra a venda, acompanha suas metas e te lembra dos compromissos. Feita com FastAPI, Claude e a API oficial do WhatsApp, e tem uma demo web para testar no navegador.
+
+### [MagazineAPI](https://github.com/gabrueldev/MagazineAPI)
+Reserva de salas que não deixa dois agendamentos se chocarem. API em Django REST com login por token, logs e 29 testes, mais uma tela web para usar tudo sem Postman.
+
+<img src="https://raw.githubusercontent.com/gabrueldev/MagazineAPI/main/docs/agenda.png" alt="Agenda do MagazineAPI com as salas em colunas e as reservas como blocos" width="720" />
+
+### [AutomacaoAPI](https://github.com/gabrueldev/AutomacaoAPI)
+API em Django com verificação de conta por e-mail. O envio roda em segundo plano com Celery e Redis, e o projeto sobe inteiro com Docker Compose.
+
+### [auth-com-email](https://github.com/gabrueldev/auth-com-email)
+Cadastro com código enviado por e-mail e login JWT em FastAPI. Os códigos são guardados com hash, expiram em 5 minutos e travam depois de 5 tentativas erradas.
+
+---
+
 ## 🌐 Onde me encontrar
 
 <p align="left">
