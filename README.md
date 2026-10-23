@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./contrib-heatmap.svg" alt="Gráfico de contribuições do GitHub do gabrueldev, atualizado todo dia" width="100%" />
+</p>
+
 # Desenvolvedor Fullstack
 
 ## Sou um **desenvolvedor full-stack** e eu desenvolvo **qualquer ideia sua**, seja ela uma **landing page** ou um **sistema complexo**.
